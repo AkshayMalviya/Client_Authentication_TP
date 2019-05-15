@@ -53,3 +53,28 @@ The response length was 30 bytes
 The response was received on 2019-05-15 14:28:53.513769 
 
 
+Server took 0:00:00.015622 to complete the request for 'lobo' 
+The response length was 5 bytes 
+The response was received on 2019-05-15 15:14:00.808619 
+
+
+Server took 0:00:00.015600 to complete the request for 'yoo' 
+The response length was 5 bytes 
+The response was received on 2019-05-15 15:14:11.544132 
+
+
+Server took 0:00:00 to complete the request for 'Lobo' 
+The response length was 30 bytes 
+The response was received on 2019-05-15 15:15:07.685856 
+
+
+Server took 0:00:00.001999 to complete the request for 'Lobo' 
+The response length was 30 bytes 
+The response was received on 2019-05-15 17:03:08.905192 
+
+
+Server took 0:00:00.002997 to complete the request for 'Lobo' 
+The response length was 30 bytes 
+The response was received on 2019-05-15 17:06:30.362848 
+
+
